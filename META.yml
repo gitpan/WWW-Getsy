@@ -1,5 +1,5 @@
 ---
-abstract: ~
+abstract: 'Command line interface to Etsy V2 OAuth API'
 author:
   - 'John Goulah, C<< <jgoulah at cpan.org> >>'
 build_requires:
@@ -29,4 +29,4 @@ requires:
   Net::OAuth::Simple: 1.5
 resources:
   license: http://opensource.org/licenses/gpl-license.php
-version: 0.999002
+version: 0.999003
